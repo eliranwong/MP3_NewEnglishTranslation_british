@@ -103,7 +103,7 @@ Download from menu > Resources > Add > GitHub Bible MP3 Files:
 
 <img width="350" alt="Screenshot 2022-03-11 at 11 35 52" src="https://user-images.githubusercontent.com/25262722/157859994-61f4eec3-d67d-414f-8e23-1bb8e67eae94.png">
 
-Select "NET (American accent)" and click Download:
+Select "NET (British accent)" and click Download:
 
 <img width="363" alt="Screenshot 2022-03-11 at 11 37 21" src="https://user-images.githubusercontent.com/25262722/157860010-0461315e-2794-4a1b-acde-34f038fffcdb.png">
 
