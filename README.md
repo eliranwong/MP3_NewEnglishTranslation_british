@@ -4,6 +4,10 @@ MP3 Audio bible - New English Translation (verse by verse)
 
 As a local ministry, <a href="https://GospelChurch.uk">Gospel Church (UK)</a> uses the bible text of New English Translation (2nd edition) to produce MP3 audio files here for the benefit of the chruch at large.  These files are created with official "<a href='https://cloud.google.com/text-to-speech'>Google Cloud Text-to-Speech</a>" paid service and "<a href='https://github.com/eliranwong/UniqueBible'>Unique Bible App</a>".  In compliance with NET Bible® copyright, we provide these files for free.  Any re-distribution of these files should also be non-commercial and free.  Please give credits to Gospel Church (UK) for production of these files in case you re-distribute the files provided in this repository.  Thank you.
 
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type">MP3 Bible - New English Translation (British accent)</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.gospelchurch.uk/?lang=en" property="cc:attributionName" rel="cc:attributionURL">Gospel Church (UK)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/eliranwong/MP3_NewEnglishTranslation_british" rel="dct:source">https://github.com/eliranwong/MP3_NewEnglishTranslation_british</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.gospelchurch.uk/?lang=en" rel="cc:morePermissions">https://GospelChurch.uk</a>.
+
 # FREE for Non-commercial Purpose
 
 NET Bible® grant local ministry permission to use it FREE for non-commercial purpose.
