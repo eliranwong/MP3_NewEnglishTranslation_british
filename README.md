@@ -115,4 +115,4 @@ Open NET and click the &#9834; button, right next to each chapter or verse numbe
 
 <img width="901" alt="Screenshot 2022-03-11 at 11 44 31" src="https://user-images.githubusercontent.com/25262722/157861186-d4bd8d94-d388-4e9b-b318-90cbe669e7d2.png">
 
-Read more about Unique Bible App at: https://github.com/eliranwong/UniqueBible
+Read more about Unique Bible App at: https://github.com/eliranwong/UniqueBible or https://github.com/eliranwong/UniqueBible/wiki/Verse-by-verse-MP3-Bible-audio
